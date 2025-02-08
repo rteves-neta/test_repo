@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>test if github and servicenow can link</description>
+        <device_type>browser</device_type>
+        <hint>test if github and servicenow can link</hint>
+        <name/>
+        <order/>
+        <roles>admin,manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-08 00:21:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1db30c9ec3671210b78a382d0501311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_repo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test_repo" source="x_1619061_test_rep">2153041ac3671210b78a382d05013123</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_repo">2153041ac3671210b78a382d05013123</sys_scope>
+        <sys_update_name>sys_app_application_1db30c9ec3671210b78a382d0501311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-08 00:21:07</sys_updated_on>
+        <title>test_repo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
